@@ -33,7 +33,7 @@ set -eo pipefail
 SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
 TARGET_DIR="$SCRIPT_DIR/../Papirus"
 
-DEFAULT_COLOR="blue"
+DEFAULT_COLOR="gruvbox"
 SIZES_REGEX="(16x16|22x22|24x24|32x32|48x48|64x64)"
 COLOR_SIZES_REGEX="(22x22|24x24|32x32|48x48|64x64)"
 FILES_REGEX="(folder|user)-"
@@ -73,6 +73,7 @@ COLORS=(
 	[yaru]="      #676767 #973552 #e4e4e4 #ff7446"
 	[yellow]="    #f9bd30 #e19d00 #594411 #e4e4e4"
 	[nordic]="    #81a1c1 #5e81ac #3b4253 #eceff4"
+	[gruvbox]="   #d79921 #d79921 #282828 #ebdbb2"
 
  	[chameleon]="currentColor fadedColor currentColor #e4e4e4"
 )
