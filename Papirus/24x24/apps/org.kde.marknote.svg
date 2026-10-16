@@ -2,9 +2,9 @@
  <path d="M 3,4.9501954 V 20.780274 C 3,21.72992 3.7429869,22.5 4.6591795,22.5 H 13 l 6,-6 V 4.9501954 Z" style="opacity:.2"/>
  <path d="m3 5.0000001v15.28c0 0.949646 0.7429867 1.72 1.6591795 1.72h8.3408205l6-6v-11z" style="fill:#1eb28d"/>
  <path d="M 3,6 V 20.28 C 3,21.229646 3.7429867,22 4.6591795,22 H 7 V 6 Z" style="opacity:.3"/>
- <rect x="8" y="9" width="10" height="1" style="fill:#dfdfdf"/>
- <rect x="8" y="12" width="10" height="1" style="fill:#dfdfdf"/>
- <rect x="8" y="15" width="5" height="1" style="fill:#dfdfdf"/>
+ <rect x="8" y="9" width="10" height="1" style="fill:#a89984"/>
+ <rect x="8" y="12" width="10" height="1" style="fill:#a89984"/>
+ <rect x="8" y="15" width="5" height="1" style="fill:#a89984"/>
  <rect x="3" y="6" width="16" height=".5" style="opacity:.2"/>
  <path d="M 4.659091,2 C 3.7400567,2 3,2.7670789 3,3.7196703 v 2.2803073 l 16,4.48e-5 V 3.7196703 C 19,2.7670789 18.259943,2 17.340909,2 Z" style="fill:#5edfbf"/>
  <path d="m4.6591795 2.0000001c-0.9190341 0-1.6591795 0.7671353-1.6591795 1.7197266v0.5c0-0.9525913 0.7401454-1.7197265 1.6591795-1.7197265h12.68164c0.919035 0 1.65918 0.7671352 1.65918 1.7197265v-0.5c0-0.9525913-0.740145-1.7197266-1.65918-1.7197266z" style="fill:#ffffff;opacity:.2"/>

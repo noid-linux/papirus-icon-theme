@@ -3,10 +3,10 @@
   <circle style="opacity:0.2" cx="12" cy="12.5" r="10"/>
   <circle style="fill:#4c3aa7" cx="12" cy="12" r="10"/>
   <ellipse style="opacity:0.2" cx="6.5" cy="14.5" rx="3.5" ry="4"/>
-  <ellipse style="fill:#dfdfdf" cx="6.5" cy="14" rx="3.5" ry="4"/>
+  <ellipse style="fill:#a89984" cx="6.5" cy="14" rx="3.5" ry="4"/>
   <ellipse style="fill:#5ca32e" cx="6.5" cy="14" rx="1.5" ry="2"/>
   <ellipse style="opacity:0.2" cx="12" cy="14" rx="4" ry="4.5"/>
-  <ellipse style="fill:#dfdfdf" cx="12" cy="13.5" rx="4" ry="4.5"/>
+  <ellipse style="fill:#a89984" cx="12" cy="13.5" rx="4" ry="4.5"/>
   <ellipse style="fill:#5ca32e" cx="12.5" cy="13" rx="1.5" ry="2"/>
   <path style="fill:#3f3f3f" d="m 13.000003,13 a 0.5,1 0 0 1 -0.5,1 0.5,1 0 0 1 -0.5,-1 0.5,1 0 0 1 0.5,-1 0.5,1 0 0 1 0.5,1 z"/>
   <path style="fill:#3f3f3f" d="m 7,14.000002 a 0.5,1 0 0 1 -0.5,1 0.5,1 0 0 1 -0.5,-1 0.5,1 0 0 1 0.5,-1 0.5,1 0 0 1 0.5,1 z"/>

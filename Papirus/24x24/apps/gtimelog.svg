@@ -7,7 +7,7 @@
  <path style="fill:none;stroke:#3f3f3f;stroke-width:2;stroke-linecap:round" d="M 12,9 V 5"/>
  <path style="fill:none;stroke:#3f3f3f;stroke-width:2;stroke-linecap:round" d="m 12,9 h 4"/>
  <circle style="fill:#818181" cx="12" cy="9" r="2"/>
- <path style="fill:none;stroke:#444444;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 7,15 c 0,0 1.5,2 5,2 3.5,0 4.893564,-2 4.893564,-2"/>
+ <path style="fill:none;stroke:#3c3836;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 7,15 c 0,0 1.5,2 5,2 3.5,0 4.893564,-2 4.893564,-2"/>
  <path style="opacity:0.2" d="m 17,15.497071 c -0.04753,0.02531 -0.09595,0.04634 -0.143555,0.07129 C 15.955509,16.432792 14.368481,17.5 12,17.5 9.559745,17.5 7.9115335,16.376507 7,15.507813 V 20.5 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 z"/>
  <path style="fill:#ffa746" d="m 17,14.997071 c -0.04753,0.02531 -0.09595,0.04634 -0.143555,0.07129 C 15.955509,15.932792 14.368481,17 12,17 9.559745,17 7.9115335,15.876507 7,15.007813 V 20 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 z"/>
  <rect style="opacity:0.3" width="6" height="1" x="9" y="18"/>
